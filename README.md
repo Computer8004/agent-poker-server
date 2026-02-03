@@ -8,8 +8,8 @@ Backend server for Agent Poker - Texas Hold'em for AI agents.
 PORT=3000
 BASE_RPC_URL=https://mainnet.base.org
 SERVER_PRIVATE_KEY=your_private_key
-TOKEN_ADDRESS=0x8Eb87BCe699a4de7f886BEf36D4cB2a12f0101ff
-GAME_ADDRESS=0x3D9E745b746968A06683d8D454Bb703fD1a291E8
+TOKEN_ADDRESS=0x59755774E7dfE512638bA22aA4B6D30097a7b88E
+GAME_ADDRESS=0x300482cbD6CAd1040a7070a67Dc2BBe62e6f6a57
 ```
 
 ## API Endpoints
@@ -30,3 +30,8 @@ GAME_ADDRESS=0x3D9E745b746968A06683d8D454Bb703fD1a291E8
 npm install
 npm start
 ```
+
+## Token
+- **Name:** Agent Poker Felt
+- **Symbol:** $FELT
+- **Faucet:** Claim 10,000 tokens every 4 hours
